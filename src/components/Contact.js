@@ -4,7 +4,7 @@ export function Contact ( props ) {
     return(
         <div className="Contact">
             <h2>Contact Us</h2>
-            <h3>Information and Bookings</h3> 
+            <h3>Booking Information</h3> 
             <p>0435 123 456</p>
             <p>42 Holyrood Avenue</p>
             <p>Sorrento VIC 3943</p>
