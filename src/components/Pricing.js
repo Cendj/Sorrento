@@ -38,7 +38,7 @@ export function Pricing(props) {
                     </ul>
                 </div>
             </div>
-            <button>BOOK NOW</button>
+            <a  href ="Book"><button>BOOK NOW</button></a>
 
         </div>
     )
