@@ -1,0 +1,28 @@
+.header {
+    background-color:rgba(104,39,33,255);
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+}
+.logo{
+    width: 600px;
+}
+.navigation {
+    justify-self: end;
+    align-self: end;
+    display: flex;
+}
+.navigation a {
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+    color: black;
+}
+.navigation a:hover{
+    color: white;
+    background-color: black;
+}
+.navigation a.active {
+    color: black;
+    background-color: white;
+
+}
