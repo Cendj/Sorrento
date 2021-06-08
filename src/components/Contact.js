@@ -1,9 +1,13 @@
 import '../Styles/Contact.css'
+import '../Styles/text.css'
+import { Banner } from './Banner'
+import BannerImage from '../Banner/Beach.jpg'
 
 export function Contact ( props ) {
     return(
         <div className="Contact">
-            <h2>Contact Us</h2>
+            <h2 className="main">Contact Us</h2>
+            <Banner image={BannerImage} text="Sunrise" />
             <h3>Booking Information</h3> 
             <p>0435 123 456</p>
             <p>42 Holyrood Avenue</p>
@@ -21,7 +25,7 @@ export function Contact ( props ) {
                 
                 {/* Message */}
                 <label htmlFor="message">Message</label>
-                <textarea id="message" rows="5"cols="24" placeholder="Hi, how is it going?"></textarea>
+                <textarea id="message" rows="5"cols="24" placeholder="Any Questions?" ></textarea>
                 <button type="reset">Clear</button>
                 <button type="submit">Send</button>
             </form>
@@ -31,5 +35,3 @@ export function Contact ( props ) {
         
     )
 }
-
-export default Contact

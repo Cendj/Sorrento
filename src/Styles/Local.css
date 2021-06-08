@@ -1,4 +1,4 @@
-.Apartment {
+.Local {
     max-width: 1024px;
     margin: 1em auto;
 }
@@ -6,4 +6,10 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-gap: 1em;
+}
+.map {
+    width: 550px;
+    height:250px;
+    
+        
 }

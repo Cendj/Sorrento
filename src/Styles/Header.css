@@ -1,5 +1,5 @@
 .header {
-    background-color:rgba(104,39,33,255);
+    background-color:rgba(117, 219, 0, 0.692);
     display:grid;
     grid-template-columns: 1fr 1fr;
 }
@@ -15,11 +15,11 @@
     display: block;
     padding: 12px;
     text-decoration: none;
-    color: black;
+    color: #4d1d18;
 }
 .navigation a:hover{
     color: white;
-    background-color: black;
+    background-color:#555;
 }
 .navigation a.active {
     color: black;

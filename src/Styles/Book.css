@@ -1,0 +1,38 @@
+.Book {
+    max-width: 1024px;
+    margin: 1em auto;
+
+}
+#booking-form {
+    display: flex;
+    flex-direction: column;
+    /*background-color: aqua;*/
+}
+.form {
+   /* background-color: yellow;*/
+}
+
+#booking-form label {
+font-weight: bold;
+margin-top: 1em;
+}
+
+#booking-form input {
+padding: 0.5em;
+box-sizing: border-box;
+}
+
+#booking-form textarea {
+    padding: 0.5em;
+    box-sizing: border-box;
+}
+#booking-form button {
+    margin-top: 1em;
+    align-self: center;
+    width: 150px;
+    background-color: black;
+    color: white;
+    padding: 0.5em;
+    border: 1px solid black;
+    border-radius: 10px;
+}

@@ -11,7 +11,6 @@ import {NotFound} from'./components/NotFound'
 
 import {Header} from './components/Header'
 
-
 const items = [
   {"name": "Home" , "link" : "/"},
   {"name": "Apartment" , "link" : "/apartment"},
@@ -23,7 +22,7 @@ const items = [
 function App() {
   return (
     <div className="website">
-     <Header logo = {Logo} nav={items}/> 
+     <Header logo = {Logo}  nav={items}/> 
       <main className="content">
         <Switch>
           <Route exact path="/">
@@ -49,7 +48,14 @@ function App() {
           </Route>          
         </Switch>
       </main>
-      <footer className="footer"></footer>
+      <footer className="footer">
+      <p class="copyright">&copy;Sorrento</p>
+           <nav class="social-nav">
+               <a href="https://facebook.com/sorrento"><i class="fab fa-facebook-square"></i></a>
+               <a href="https://instagram.com/sorrento"><i class="fab fa-instagram-square"></i></a>
+               <a href="https://twitter.com/sorrento"><i class="fab fa-twitter-square"></i></a>
+           </nav>
+      </footer>
 
     </div>
   );
