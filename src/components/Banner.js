@@ -22,7 +22,7 @@ const TextStle = {
 export function Banner ( props ) {
     return (
         <div className="banner" style={BannerStyle}>
-            <img src = {props.image} className="banner-image" style = {BannerImage}/>
+            <img src = {props.image} alt ="Sorrento pic" className="banner-image" style = {BannerImage}/>
             <h2 className="banner-text">{props.text}</h2>
         </div>
     )
