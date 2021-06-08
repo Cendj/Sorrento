@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Sorrento/static/css/main.b65fd4d9.chunk.css",
-    "main.js": "/Sorrento/static/js/main.f4ead1b8.chunk.js",
-    "main.js.map": "/Sorrento/static/js/main.f4ead1b8.chunk.js.map",
-    "runtime-main.js": "/Sorrento/static/js/runtime-main.15f20c4f.js",
-    "runtime-main.js.map": "/Sorrento/static/js/runtime-main.15f20c4f.js.map",
-    "static/js/2.65ab3e09.chunk.js": "/Sorrento/static/js/2.65ab3e09.chunk.js",
-    "static/js/2.65ab3e09.chunk.js.map": "/Sorrento/static/js/2.65ab3e09.chunk.js.map",
-    "static/js/3.9e6ed69a.chunk.js": "/Sorrento/static/js/3.9e6ed69a.chunk.js",
-    "static/js/3.9e6ed69a.chunk.js.map": "/Sorrento/static/js/3.9e6ed69a.chunk.js.map",
+    "main.css": "/Sorrento/static/css/main.4e86a662.chunk.css",
+    "main.js": "/Sorrento/static/js/main.1560cf21.chunk.js",
+    "main.js.map": "/Sorrento/static/js/main.1560cf21.chunk.js.map",
+    "runtime-main.js": "/Sorrento/static/js/runtime-main.087a7824.js",
+    "runtime-main.js.map": "/Sorrento/static/js/runtime-main.087a7824.js.map",
+    "static/js/2.a8a4de52.chunk.js": "/Sorrento/static/js/2.a8a4de52.chunk.js",
+    "static/js/2.a8a4de52.chunk.js.map": "/Sorrento/static/js/2.a8a4de52.chunk.js.map",
+    "static/js/3.8e41cc69.chunk.js": "/Sorrento/static/js/3.8e41cc69.chunk.js",
+    "static/js/3.8e41cc69.chunk.js.map": "/Sorrento/static/js/3.8e41cc69.chunk.js.map",
     "index.html": "/Sorrento/index.html",
-    "static/css/main.b65fd4d9.chunk.css.map": "/Sorrento/static/css/main.b65fd4d9.chunk.css.map",
-    "static/js/2.65ab3e09.chunk.js.LICENSE.txt": "/Sorrento/static/js/2.65ab3e09.chunk.js.LICENSE.txt",
+    "static/css/main.4e86a662.chunk.css.map": "/Sorrento/static/css/main.4e86a662.chunk.css.map",
+    "static/js/2.a8a4de52.chunk.js.LICENSE.txt": "/Sorrento/static/js/2.a8a4de52.chunk.js.LICENSE.txt",
     "static/media/Beach.87672fb4.jpg": "/Sorrento/static/media/Beach.87672fb4.jpg",
     "static/media/sorrento_by_the_sea_logo.da3aa440.jpg": "/Sorrento/static/media/sorrento_by_the_sea_logo.da3aa440.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.15f20c4f.js",
-    "static/js/2.65ab3e09.chunk.js",
-    "static/css/main.b65fd4d9.chunk.css",
-    "static/js/main.f4ead1b8.chunk.js"
+    "static/js/runtime-main.087a7824.js",
+    "static/js/2.a8a4de52.chunk.js",
+    "static/css/main.4e86a662.chunk.css",
+    "static/js/main.1560cf21.chunk.js"
   ]
 }
