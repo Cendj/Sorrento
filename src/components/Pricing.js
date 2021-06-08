@@ -28,6 +28,7 @@ export function Pricing(props) {
                         <li>1st February - 31st May</li>
                         <li>Total amount is payable upon booking.</li>
                         <li>$220 per night</li>
+                        <p></p>
                         </ul>
                     </div>
                     <div>
@@ -41,7 +42,7 @@ export function Pricing(props) {
                         <li>Monthly Price $5,400</li>
                     </ul>
                     </div>
-                    
+                   
                 </div>
             </div>
             
